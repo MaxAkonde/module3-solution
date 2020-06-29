@@ -1,0 +1,23 @@
+@media(max-width:768px) {
+    #bs-example-navbar-collapse-1 {
+        background-color: #9a9a9a;
+    }
+    #bs-example-navbar-collapse-1 > ul > li > a {
+        color: black;
+    }
+}
+
+#chicken {
+    background-color: #437A6A;
+    padding: 0 5px;
+}
+
+#beef {
+    background-color: #C7A196;
+    padding: 0 5px;
+}
+
+#sushi {
+    background-color: #B9C7A9;
+    padding: 0 5px;
+}
